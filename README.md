@@ -1,4 +1,4 @@
-![Minha Foto]()
+![Minha Foto](/FB_IMG_1605536334292.jpg)
 
 # Um pouco sobre mim:
 
