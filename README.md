@@ -1,4 +1,4 @@
-![Minha Foto](https://photos.app.goo.gl/9G3FRpggpyGHDFp36)
+![Minha Foto]()
 
 # Um pouco sobre mim:
 
