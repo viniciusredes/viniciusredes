@@ -1,9 +1,7 @@
 # Um pouco sobre mim:
 
-Atualmente sou Tech Recruiter na ZG Soluções, 
-meu desafio é encontrar profissionais talentosos e dedicados!
-Na ZG temos um ambiente leve, descontraído e ao mesmo tempo muito produtivo,
-para ajudar a potencializar esse clima, busco por desenvolvedores que gostem de:
+_Atualmente sou Tech Recruiter na ZG Soluções, meu desafio é encontrar profissionais talentosos e dedicados!_
+Na ZG temos um ambiente leve, descontraído e ao mesmo tempo muito produtivo, para ajudar a potencializar esse clima, busco por desenvolvedores que gostem de:
 - Trabalhar Colaborativamente;
 - Aprender e compartilhar conhecimento;
 - Resolver problemas de forma elegante e criativa;
