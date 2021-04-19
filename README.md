@@ -1,4 +1,4 @@
-![GitHub Logo](https://photos.app.goo.gl/Hm1A11YZr6THH6xj7)
+![Minha Foto](https://photos.app.goo.gl/9G3FRpggpyGHDFp36)
 
 # Um pouco sobre mim:
 
