@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-
-Um pouco sobre mim:
+*Um pouco sobre mim:
 
 Atualmente sou Tech Recruiter na ZG Soluções, 
 meu desafio é encontrar profissionais talentosos e dedicados!
@@ -25,4 +21,4 @@ entre elas estão:
 Ao longo dos meus 16 anos trabalhando com TI a Educação sempre esteve presente, 
 acredito que este seja o caminho para a construção de uma carreira consistente e uma atuação profissional sólida.
 
--->
+
