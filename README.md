@@ -1,5 +1,3 @@
-![Minha Foto](/FB_IMG_1605536334292.jpg)
-
 # Um pouco sobre mim:
 
 _Atualmente sou Tech Recruiter na ZG Soluções, meu desafio é encontrar profissionais talentosos e dedicados!
