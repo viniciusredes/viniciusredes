@@ -20,6 +20,6 @@ _Ao longo dos meus 16 anos trabalhando com TI a Educação sempre esteve present
 acredito que este seja o caminho para a construção de uma carreira consistente e uma atuação profissional sólida._
 
 ## Contatos:
-Linkedin:  https://www.linkedin.com/in/viniciusoliveiragyn/ /n
-e-mail: vinicius.silva@zgsolucoes.com.br
+[x] Linkedin:  https://www.linkedin.com/in/viniciusoliveiragyn/ /n
+[x] e-mail: vinicius.silva@zgsolucoes.com.br
 
