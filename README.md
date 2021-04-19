@@ -1,3 +1,5 @@
+![GitHub Logo](https://photos.app.goo.gl/Hm1A11YZr6THH6xj7)
+
 # Um pouco sobre mim:
 
 _Atualmente sou Tech Recruiter na ZG Soluções, meu desafio é encontrar profissionais talentosos e dedicados!
