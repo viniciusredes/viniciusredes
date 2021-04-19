@@ -1,4 +1,4 @@
-*Um pouco sobre mim:
+Um pouco sobre mim:
 
 Atualmente sou Tech Recruiter na ZG Soluções, 
 meu desafio é encontrar profissionais talentosos e dedicados!
